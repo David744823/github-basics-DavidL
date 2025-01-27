@@ -16,4 +16,8 @@ hello_world.java is a simple java program that, using a for loop, prints "Hello,
 - Reviewers should leave questions, comments, and suggestions. You can continue to commit and push changes in response to the reviews; your pull request will update automatically as you do.
 - Once your pull request is reviewed and approved (you may need multiple approving reviews or an approving review from a specific team), you may merge your pull request. This will merge your branch so that your changes appear on the primary branch; the history of comments and commits in the pull request will be retained. After the merge, you should delete your branch.
 
-5.) A pull request asks collaborators on a repository for feedback on your changes. Users or teams can review your work in your branch and add comments......
+5.) A pull request is a proposal to merge a set of changes from one branch into a nother, and asks collaborators on a repository for feedback on your changes within the branch; these differences between your branch and the primary branch are displayed in the pull request. Users or teams can review your work in your branch and add comments, and you can follow-up by making changes, or commits, to your branch before merging (if an approving review from the right member(s) is recieved).
+
+6.) Issues are used in one's repository to plan, discuss, and track work. They can be used to track bug reports, new features, idea,s and anything else contributors choose to write down or discuss. Issues can be created from the code, a comment, a URL query, etc. Sub-issues can also be added to break down bigger milestones into specific, individual tasks.
+
+7.) 
