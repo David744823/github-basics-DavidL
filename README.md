@@ -31,3 +31,4 @@ hello_world.java is a simple java program that, using a for loop, prints "Hello,
 - Issues are used to discuss specific details of a repository/project such as bug reports, planned improvements and feedback regarding said repository. 
 - Pull requests allow you to propose specific changes to a repository, let you comment on changes suggested.
 - GitHub Discussions/team discussions can be started on your team's page, can span across multiple projects, and don't belong to a specific repository. These don't have a clear owner and don't need to result in an actionable task, but allow the whole team to have a discussion regarding their projects in some way.
+By using these methods of communication, developers can better collaborate with one another on a repository.
