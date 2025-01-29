@@ -1,6 +1,7 @@
 # github-basics-DavidL
-This repository is for a school assignment. Besides the README.md file, github-basics-DavidL contains a java file: hello_world.java.
-hello_world.java is a simple java program that, using a for loop, prints "Hello, World!" 3 times.
+This repository is for a school assignment, specifically called "GitHub Basic Skills Assignment". Besides the README.md file, github-basics-DavidL contains a java file: hello_world.java.
+I, David, am the only contributor to this repository.
+hello_world.java is a simple java program that, using a for loop, prints "Hello, World!" 3 times. It has no real function.
 
 # Assessment Questions
 1.) Git is a software installed locally on one's system. Specifically, Git is a version control system that lets one manage and keep track of code history. Meanwhile, GitHub is a service hosted on the web. Specifically, GitHub a cloud-based hosting service that lets you manage Git repositories. They complement each other in the way that open-source projects that use Git can be managed on GitHub.
@@ -16,4 +17,18 @@ hello_world.java is a simple java program that, using a for loop, prints "Hello,
 - Reviewers should leave questions, comments, and suggestions. You can continue to commit and push changes in response to the reviews; your pull request will update automatically as you do.
 - Once your pull request is reviewed and approved (you may need multiple approving reviews or an approving review from a specific team), you may merge your pull request. This will merge your branch so that your changes appear on the primary branch; the history of comments and commits in the pull request will be retained. After the merge, you should delete your branch.
 
-5.) A pull request asks collaborators on a repository for feedback on your changes. Users or teams can review your work in your branch and add comments......
+5.) A pull request is a proposal to merge a set of changes from one branch into a nother, and asks collaborators on a repository for feedback on your changes within the branch; these differences between your branch and the primary branch are displayed in the pull request. Users or teams can review your work in your branch and add comments, and you can follow-up by making changes, or commits, to your branch before merging (if an approving review from the right member(s) is recieved).
+
+6.) Issues are used in one's repository to plan, discuss, and track work. They can be used to track bug reports, new features, idea,s and anything else contributors choose to write down or discuss. Issues can be created from the code, a comment, a URL query, etc. Sub-issues can also be added to break down bigger milestones into specific, individual tasks.
+
+7.) Commits allow you and contributors to the repository to quickly see what changes were made and why. A commit message should be organized and easy to understand; it should have a commit message summary shorter than 50 characters and a description no longer than 72, and both should be brief, detailed and understandable; multiple commits (from the same user) should have a consistent style; commits should have proper capitalization, punctuation, and spelling, but the commit message shouldn't end with punctuation; it should use the imperative form of a verb (fix instead of fixed, change instead of changed).
+
+8.) Branches allow developers to make changes to the code and files without directly saving their changes to the main branch. This allows developers to test out new ideas in a new branch using the already working code in the main branch, as any changes the developers make in the code in their branch won't put the functionality of the main code at risk until the branches are merged (at which point, the changes the developer made in their branch are likely 100% functional, so the functionality still isn't at risk).
+
+9.) A README file is a text file used to communicate important information about your project. A good README should include what the project does, who maintains and contributes to the project, why the project is useful, etc.
+
+10.) You can communicate via issues, pull requests, GitHub Discussions and team discussions, depending on the type of conversation you'd like to have. 
+- Issues are used to discuss specific details of a repository/project such as bug reports, planned improvements and feedback regarding said repository. 
+- Pull requests allow you to propose specific changes to a repository, let you comment on changes suggested.
+- GitHub Discussions/team discussions can be started on your team's page, can span across multiple projects, and don't belong to a specific repository. These don't have a clear owner and don't need to result in an actionable task, but allow the whole team to have a discussion regarding their projects in some way.
+By using these methods of communication, developers can better collaborate with one another on a repository.
